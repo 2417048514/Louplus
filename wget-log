@@ -1,0 +1,81 @@
+--2019-11-28 13:36:21--  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在解析主机 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)... 118.31.219.209
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 13:38:33--  (尝试次数： 2)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 13:40:45--  (尝试次数： 3)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 13:42:59--  (尝试次数： 4)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 13:45:13--  (尝试次数： 5)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 13:47:29--  (尝试次数： 6)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 13:49:45--  (尝试次数： 7)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 13:52:02--  (尝试次数： 8)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 13:54:20--  (尝试次数： 9)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 13:56:38--  (尝试次数：10)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 13:58:58--  (尝试次数：11)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 14:01:18--  (尝试次数：12)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 14:03:37--  (尝试次数：13)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 14:05:56--  (尝试次数：14)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 14:08:15--  (尝试次数：15)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 14:10:35--  (尝试次数：16)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 14:12:54--  (尝试次数：17)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 14:15:13--  (尝试次数：18)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 14:17:32--  (尝试次数：19)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+重试中。
+
+--2019-11-28 14:19:52--  (尝试次数：20)  http://labfile.oss-cn-hangzhou.aliyuncs.com/courses/1330/python1.png
+正在连接 labfile.oss-cn-hangzhou.aliyuncs.com (labfile.oss-cn-hangzhou.aliyuncs.com)|118.31.219.209|:80... 失败：连接超时。
+放弃操作。
+
